@@ -1,0 +1,19 @@
+h3 {
+    color: #3d348b;
+}
+
+button {
+    border: none;
+    border-radius: 7px;
+    background-color: #bdb2ff;
+}
+
+input {
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+}
+
+body {
+    text-align: center;
+}
